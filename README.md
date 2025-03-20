@@ -1,6 +1,7 @@
 # Omi Audio Transcriber
 
-A simple web application that allows you to record audio and transcribe it using OpenAI's Whisper model.
+A simple web application that allows you to record audio and transcribe it using OpenAI's Whisper model from Omi devices.
+
 
 ## Features
 
